@@ -45,7 +45,7 @@ f=open('output.xml', 'w')
 #XML declaration
 f.write('<?xml version="1.0" encoding="UTF-8"?>')
 #XML root element
-f.write('\n'+'<bulkmetadata>')
+f.write('\n'+'<bulkMetadata>')
 
 
 for row in output_list:
@@ -58,7 +58,7 @@ for row in output_list:
 	f.write('\n' + '</mods:mods></update></object>')
 	
 #XML end root element
-f.write('\n'+'</bulkmetadata>')
+f.write('\n'+'</bulkMetadata>')
 f.close()
 
 print('The following items were not added to mods because they are invalid. check the contents and try again')
