@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulkmetadata>
+<object pid="uuid:656b5da3-ff4b-4cc9-9563-d86b4526f5ef"><update type="MODS"><mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<mods:titleInfo><mods:title>International Bluegrass Music Association (IBMA), 2013</mods:title></mods:titleInfo>
+<mods:identifier displayLabel="Digital Folder">DF-0000/2</mods:identifier>
+<mods:relatedItem type="isReferencedBy"><mods:location><mods:url displayLabel="Link to finding aid">http://some website</mods:url></mods:location></mods:relatedItem>
+</mods:mods></update></object>
+<object pid="uuid:f55b0790-3f02-481e-9c45-69dcf57a0dfb"><update type="MODS"><mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<mods:titleInfo><mods:title>Bruce Cockburn, Cats Cradle, Carrboro, N.C.</mods:title></mods:titleInfo>
+<mods:identifier displayLabel="Digital Folder">DF-0000/3</mods:identifier>
+<mods:relatedItem type="isReferencedBy"><mods:location><mods:url displayLabel="Link to finding aid">http://some website</mods:url></mods:location></mods:relatedItem>
+</mods:mods></update></object>
+</bulkmetadata>
